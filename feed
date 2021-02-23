@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Get Flowers Near Me</title>
+	<atom:link href="https://BSW1001.github.io/getflowersnearme/feed" rel="self" type="application/rss+xml" />
+	<link>https://BSW1001.github.io/getflowersnearme</link>
+	<description>Get Flowers Near Me</description>
+	<lastBuildDate>Tuesday, 23 February 2021 13:54:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>	
+	
+	
+	
+<!--feeditem-->
+<item>
+		<title>Say I love you, with flowers</title>
+		<link>https://BSW1001.github.io/getflowersnearme/news/Say-I-love-you,-with-flowers.html</link>
+		<pubDate>Tuesday, 23 February 2021 13:54:01 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<category><![CDATA[news]]></category>
+		<guid isPermaLink="false">https://BSW1001.github.io/getflowersnearme/news/Say-I-love-you,-with-flowers.html</guid> 
+		<description><![CDATA[Say I love you, with flowers
+by
+Younus Ilahi
+Posted on 23-02-2021 01:54 PM
+On This Page 
+ 
+ Say I love you, with flowers 
+ Claim many thanks with beautiful flowers 
+ 
+ 
+ 
+ Say I love you, with flowers 
+ Cherish spring vase of flowers ginger vase&amp;nbsp; http://wwwtiltedtulipflorist
+]]></description>
+       <enclosure url="#" length="0" type="image" /></item>
+	
+	
+</channel>
+</rss>
+
+		
